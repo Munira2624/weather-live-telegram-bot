@@ -3,7 +3,7 @@ from translate import Translator
 import requests
 
 async def get_weather(city_name, lang="uz"):
-    API_KEY = 'b16d13fb8b846f5f946498d53373104c'
+    API_KEY = '###########################'
 
     try:
         response = requests.get(
