@@ -3,12 +3,12 @@
 ## 📌 About Project
 This Telegram bot provides real-time weather information for any city.
 
-Users can enter a city name and receive:
+After entering a city name, users can receive:
 - Current temperature
-- Wind speed
+- Current local time in the city
 - Weather condition
-- Current local time
-
+- Sunrise and sunset times
+- Wind speed
 ---
 
 ## 🌍 Multilingual Support
