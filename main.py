@@ -4,7 +4,7 @@ from pprint import pprint
 from datetime import datetime, timezone, timedelta
 from translate import Translator
 
-API_KEY = 'b16d13fb8b846f5f946498d53373104c'
+API_KEY = '#######################'
 
 while True:
     city_name = input('Shahar nomini kiriting (yoki "stop" deb yozing): ').lower()
