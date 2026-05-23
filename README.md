@@ -1,6 +1,6 @@
-# 🌦 Weather Live Telegram Bot
+ Weather Live Telegram Bot
 
-## 📌 About Project
+ About Project
 This Telegram bot provides real-time weather information for any city.
 
 After entering a city name, users can receive:
@@ -11,7 +11,7 @@ After entering a city name, users can receive:
 - Wind speed
 ---
 
-## 🌍 Multilingual Support
+ Multilingual Support
 The bot can respond in:
 - 🇺🇿 Uzbek
 - 🇷🇺 Russian
@@ -19,14 +19,14 @@ The bot can respond in:
 
 ---
 
-## 🛠 Technologies
+ Technologies
 - Python
 - Telegram Bot API
 - Weather API
 
 ---
 
-## 💡 Features
+ Features
 - Real-time weather updates
 - City search
 - Multilanguage support
@@ -34,7 +34,7 @@ The bot can respond in:
 
 ---
 
-## 🎯 Purpose
+ Purpose
 Created for learning API integration, multilingual systems, and backend development.
 
 ---
