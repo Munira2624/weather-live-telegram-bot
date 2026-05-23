@@ -1,4 +1,4 @@
- Weather Live Telegram Bot
+🌦 Weather Live Telegram Bot
 
  About Project
 This Telegram bot provides real-time weather information for any city.
